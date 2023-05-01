@@ -3,9 +3,21 @@ import {SafeAreaView, Text, View, StyleSheet, FlatList, TextInput, TouchableOpac
 
 const YourApp = () => {
   const [items, setItems] = useState(["item 1", "item 2", "item 3"])
+  const [input, setInput] = useState("")
   return (
     <SafeAreaView
       >
+      <View style={styles.form}>
+        <TextInput
+        style={styles.input}
+        placeholder="Text here"
+        onChangeText={newText => setInput(newText)}
+        defaultValue={input}
+      />
+      <TouchableOpacity style={styles.button} onPress={() => setItems([...items, input])}>
+        <Text>Add New</Text>
+      </TouchableOpacity>
+      </View>
       <FlatList data={items} renderItem={({item}) => <Text style={styles.item}>{item}</Text>}></FlatList>
     </SafeAreaView>
   );
