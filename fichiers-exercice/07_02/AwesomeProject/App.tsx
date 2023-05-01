@@ -1,20 +1,15 @@
-import React  from 'react';
-import {Text, View, StyleSheet } from 'react-native';
-
+import React, { useState } from 'react';
+import {SafeAreaView, Text, View, StyleSheet, FlatList, TextInput, TouchableOpacity } from 'react-native';
 
 const YourApp = () => {
+  const [items, setItems] = useState(["item 1", "item 2", "item 3"])
   return (
-    <View
-      style={{
-        flex: 1,
-        justifyContent: 'center',
-        alignItems: 'center',
-      }}>
-      <Text>Try editing me! 🎉</Text>
-    </View>
+    <SafeAreaView
+      >
+      <FlatList data={items} renderItem={({item}) => <Text style={styles.item}>{item}</Text>}></FlatList>
+    </SafeAreaView>
   );
 };
-
 
 const styles = StyleSheet.create({
   container: {
