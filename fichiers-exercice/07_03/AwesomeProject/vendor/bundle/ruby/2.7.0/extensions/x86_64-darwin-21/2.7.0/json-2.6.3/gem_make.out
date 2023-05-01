@@ -1,0 +1,13 @@
+current directory: /Users/sandyinstructor/Desktop/EssT_React_Native-4407452/fichiers-exercice/07_03/AwesomeProject/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+/Users/sandyinstructor/.rvm/rubies/ruby-2.7.6/bin/ruby -I /Users/sandyinstructor/.rvm/rubies/ruby-2.7.6/lib/ruby/2.7.0 -r ./siteconf20230427-58434-3v7p24.rb extconf.rb
+creating Makefile
+
+current directory: /Users/sandyinstructor/Desktop/EssT_React_Native-4407452/fichiers-exercice/07_03/AwesomeProject/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/sandyinstructor/Desktop/EssT_React_Native-4407452/fichiers-exercice/07_03/AwesomeProject/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/sandyinstructor/Desktop/EssT_React_Native-4407452/fichiers-exercice/07_03/AwesomeProject/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make "DESTDIR=" install
