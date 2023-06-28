@@ -1,11 +1,11 @@
-# Nom final de la formation
+# L'essentiel de React Native
 
-Ce dossier Repository est lié au cours `Nom final de la formation`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
+Ce dossier Repository est lié au cours `L'essentiel de React Native`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
 ![Nom final de la formation][lil-thumbnail-url] 
 
 
-DESCRIPTION DE LA FORMATION
+React Native vous permet de développer des applications pour le web et vous offre une meilleure expérience mobile pour iOS et Android. Dans ce cours, découvrez comment fonctionne la librairie de ce framework pour développer des applications multiplateformes, sans avoir besoin de connaître le code natif. Sandy Ludosky, développeuse JavaScript, vous donne toutes les clés pour tirer parti de React Native. Que vous soyez développeur débutant ou confirmé, vous allez voir comment réussir vos développements web et mobile, tel un professionnel.	
 
 ## Instructions
 
