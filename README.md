@@ -20,9 +20,9 @@ La branche master correspond au code à la fin de la formation.
 
 
 
-### Formateur
+### Formatrice
 
-**Nom du formateur** 
+**Sandy Ludosky** 
 
  Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
