@@ -1,11 +1,11 @@
-# Nom final de la formation
+# L'essentiel de React Native
 
-Ce dossier Repository est lié au cours `Nom final de la formation`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
+Ce dossier Repository est lié au cours `L'essentiel de React Native`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
 ![Nom final de la formation][lil-thumbnail-url] 
 
 
-DESCRIPTION DE LA FORMATION
+React Native vous permet de développer des applications pour le web et vous offre une meilleure expérience mobile pour iOS et Android. Dans ce cours, découvrez comment fonctionne la librairie de ce framework pour développer des applications multiplateformes, sans avoir besoin de connaître le code natif. Sandy Ludosky, développeuse JavaScript, vous donne toutes les clés pour tirer parti de React Native. Que vous soyez développeur débutant ou confirmé, vous allez voir comment réussir vos développements web et mobile, tel un professionnel.	
 
 ## Instructions
 
@@ -18,23 +18,17 @@ La branche `02_03_d` correspond au code du début de la vidéo.
 La branche `02_03_f` correspond au code à la fin de la vidéo.  
 La branche master correspond au code à la fin de la formation. 
 
-## Installation
-
-1. Pour utiliser ces fichiers d’exercice, vous avez besoin de : 
-   - [Liste des logiciels/dépendances utiles à la formation] 
-2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree. 
-3. [Instructions spécifiques au cours] 
 
 
-### Formateur
+### Formatrice
 
-**Nom du formateur** 
+**Sandy Ludosky** 
 
  Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
+[lil-course-url]: https://www.linkedin.com/learning/l-essentiel-de-react-native
 [lil-thumbnail-url]: https:
-[lil-URL-trainer]: https://
+[lil-URL-trainer]: https://www.linkedin.com/learning/instructors/sandy-ludosky
 
 [1]: # (End of FR-Instruction ###############################################################################################)
