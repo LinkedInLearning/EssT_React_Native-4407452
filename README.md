@@ -28,7 +28,7 @@ La branche master correspond au code à la fin de la formation.
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/l-essentiel-de-react-native
-[lil-thumbnail-url]: https:
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQFp55-RQVwuDw/learning-public-crop_675_1200/0/1688707649950?e=2147483647&v=beta&t=r8bNvC3kIU4uOvDa6-3j-xiNiLxBT2uLaM_PHhKRFb4
 [lil-URL-trainer]: https://www.linkedin.com/learning/instructors/sandy-ludosky
 
 [1]: # (End of FR-Instruction ###############################################################################################)
