@@ -12,7 +12,16 @@
       },
       // Add the IDs of extensions you want installed when the container is created.
       "extensions": [
-        "linkedinlearning.linkedinlearning-vscode-theme"
+        "linkedinlearning.linkedinlearning-vscode-theme",
+      "ms-vscode.vscode-typescript-next",
+      "dbaeumer.vscode-eslint",
+      "esbenp.prettier-vscode",
+      "msjsdiag.debugger-for-chrome",
+      "msjsdiag.vscode-react-native",
+      "ms-python.python",
+      "humao.rest-client",
+      "EditorConfig.EditorConfig",
+      "eamodio.gitlens"
       ]
     }
   },
