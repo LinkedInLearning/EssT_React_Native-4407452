@@ -19,8 +19,6 @@ La branche `02_03_d` correspond au code du début de la vidéo.
 La branche `02_03_f` correspond au code à la fin de la vidéo.  
 La branche master correspond au code à la fin de la formation. 
 
-
-
 ### Formatrice
 
 **Sandy Ludosky** 
